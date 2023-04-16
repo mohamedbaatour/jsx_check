@@ -2,7 +2,7 @@ import React from 'react'
 
 const Address = () => {
   return (
-    <div> E-Mail : mohamedbaatour2023@gmail.com</div>
+    <div className='email'> E-Mail : mohamedbaatour2023@gmail.com</div>
   )
 }
 

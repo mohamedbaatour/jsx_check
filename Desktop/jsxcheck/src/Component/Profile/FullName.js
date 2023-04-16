@@ -2,7 +2,8 @@ import React from 'react'
 
 const FullName = () => {
   return (
-    <div> Full Name : Mohamed Baatour</div>
+    <div className='Med'> Full Name : Mohamed Baatour
+    </div>
   )
 }
 
